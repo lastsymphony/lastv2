@@ -22,4 +22,20 @@ Simple WhatsApp Bot
 
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 OFFICIAL: [GITHUB](https://github.com/lastsymphony/last)
